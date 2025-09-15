@@ -1,6 +1,6 @@
 # Wine Quality Analysis - Day 1 Assignment
 
-**Intern:** [Your Name]  
+**Intern:** Siddhartha Shakya 
 **Company:** Amnil Technology  
 **Date:** September 15, 2025
 
@@ -57,7 +57,7 @@ This project implements machine learning models to analyze and predict wine qual
 - **Target:** Exact quality scores (3-9)
 - **Metrics:** R², RMSE, MAE, MSE
 
-### 📈 Model Comparison
+### Model Comparison
 - Side-by-side performance analysis
 - Feature coefficient comparison
 - Prediction distribution analysis
