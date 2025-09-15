@@ -32,20 +32,20 @@ This project implements machine learning models to analyze and predict wine qual
 
 ## Analysis Components
 
-### 📊 Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 - Dataset overview and statistics
 - Quality distribution analysis
 - Feature distribution visualization
 - Correlation analysis
 - Outlier detection
 
-### 🔧 Data Preprocessing
+### Data Preprocessing
 - Feature scaling and normalization
 - Binary encoding for wine type
 - Train-test data splitting
 - Feature importance analysis
 
-### 🤖 Machine Learning Models
+### Machine Learning Models
 
 #### 1. Logistic Regression
 - **Purpose:** Binary classification (High/Low quality)
