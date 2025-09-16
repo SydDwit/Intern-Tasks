@@ -1,6 +1,6 @@
 # Wine Quality Analysis - Day 1 Assignment
 
-**Intern:** [Your Name]  
+**Intern:** Siddhartha Shakya 
 **Company:** Amnil Technology  
 **Date:** September 15, 2025
 
